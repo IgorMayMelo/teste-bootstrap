@@ -1,5 +1,9 @@
-#main {
+#main-bg-img {
     background-image: url(images/rome.png);
     background-position: center;
     background-size: cover;
+}
+
+#logo {
+    font-size: 3rem;
 }
